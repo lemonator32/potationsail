@@ -15,3 +15,5 @@ build\potationsail.exe
 Documentation: [docs/](docs/README.md) covers
 [features](docs/features.md), [architecture](docs/architecture.md),
 [blend modes](docs/blend-modes.md) and the [stabilizer](docs/stabilizer.md).
+
+<img width="1577" height="1008" alt="image" src="https://github.com/user-attachments/assets/3a2b2221-5726-4c2b-b526-af5766011158" />
